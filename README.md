@@ -34,6 +34,9 @@ WCplus 依赖 Python3 运行，请先安装 Python ，最好是 python 3.6 。
 python3 license_generator.py 标识码
 ```
 
+## 证书
+证书安装方法见 https://germey.gitbooks.io/python3webspider/1.7.2-MitmProxy%E7%9A%84%E5%AE%89%E8%A3%85.html
+
 ## 其他
 本人没有太多时间参与源代码的维护工作，不能保证所有 issue 都能在短时间内得到解决。
 
